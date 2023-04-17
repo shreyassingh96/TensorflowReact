@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+.Form.Group {
+  padding: 10px;
+}
+.Form.Group {
+  margin-bottom: 10px;
+}
+
 
 .App-logo {
   height: 40vmin;
